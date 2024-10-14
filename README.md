@@ -8,15 +8,16 @@ After that, you can use it.
 
 This is a beta, can be errors.
 =======
-New version (v3) has more than a just fly, speen and jump power.
+New version (v3) has more than a just fly, speed and jump power changer.
 
 List of all stuff can do this script.
-> - Noclip
-> - Kill All
-> - Reset your character
-> - Anti fling (bad work)
-> - Fly (unusable)
-> - Fly V3 (trying to make web script load)
-> - Executor by me (halfway done)
+> - Noclip.
+> - Kill All.
+> - Reset your character.
+> - Anti fling (bad work).
+> - Fly (unusable).
+> - Fly V3 (trying to make web script load).
+> - Executor by me (halfway done).
 > - Change your speed and jump power.
-> - ` Minimize `
+> - ` Minimize `.
+> - Moves.
