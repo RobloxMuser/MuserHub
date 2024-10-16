@@ -21,3 +21,4 @@ List of all stuff can do this script.
 > - Change your speed and jump power.
 > - ` Minimize `.
 > -   `Moves`.
+> - ` Say hello to you. `
