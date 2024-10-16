@@ -6,7 +6,7 @@ You need fistly import this script on your executor.
 
 After that, you can use it. 
 
-> This is a beta, can be errors.
+This is a beta, can be errors.
 
 New version (v3) has more than a just fly, speed and jump power changer.
 
