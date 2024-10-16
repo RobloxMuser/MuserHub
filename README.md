@@ -12,7 +12,7 @@ New version (v3) has more than a just fly, speed and jump power changer.
 
 List of all stuff can do this script.
 > - Noclip/Reclip.
-> - Kill All.
+> - Kill All (no works).
 > - Reset your character.
 > - Anti fling (bad work).
 > - Fly R6 (unusable).
